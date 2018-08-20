@@ -37,7 +37,7 @@ params:
     #url: /
     #- title: Dropdown item
     ##url: /
-  - title: Source
+  - title: XSource
     url: https://github.com/hyperledger-labs/sparts
   - title: SpartsHub
     url: https://spartshub.org
